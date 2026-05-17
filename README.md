@@ -3,7 +3,7 @@
 ## Description
 This project is an interactive Tableau dashboard that analyzes customer reviews of British Airways. It provides insights into overall ratings, service quality, aircraft performance, and geographic trends to help understand customer satisfaction and identify areas for improvement.
 
-## Dashboard Snapshot
+## Dashboard Screenshot
 ![Dashboard](Dashboard.png)
 
 ## Tools Used
